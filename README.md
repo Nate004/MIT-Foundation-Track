@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Taiwo Babatunde
 
-- I am a graduate of Mechanical engineerin
+- I am a graduate of Mechanical engineering
 - I am interested in optimization of energy systems using ML
 - 👀 I’m interested in Data Science, Machine Learning, and AI
 - 🌱 I’m currently learning Data science and ML
-- 💞️ I’m looking to collaborate on different programming challenges and solve massive data issues as a data engineer/analytics
+- 💞️ I’m looking to collaborate on different programming challenges
 - 📫 How to reach me @ <ebabstaiwo96@gmail.com> / @ <natebabs04@gmail.com>
 - 📫 LinkedIn @ <https://www.linkedin.com/in/babatunde-taiwo-a7a208136/>
 
