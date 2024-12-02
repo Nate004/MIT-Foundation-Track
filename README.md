@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Taiwo Babatunde
+# 👋 Hello! Welcome to Taiwo Babatunde's Github profile
 
 - I am a graduate of Mechanical engineering
 - I am interested in optimization of energy systems using ML
