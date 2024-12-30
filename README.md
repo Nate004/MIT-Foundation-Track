@@ -2,7 +2,13 @@
 
 ## I am Taiwo Babatunde
 
+<details>
+<summary> Academics </summary>
 - I am a graduate of Mechanical engineering
+- Specialization in computational dynamics & thermofluid engineering
+
+<details>
+<summary> Interests </summary>
 - I am interested in optimization of energy systems using ML
 - 👀 I’m interested in Data Science, Machine Learning, and AI
 - 🌱 I’m currently learning Data science and ML
